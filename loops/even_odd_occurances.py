@@ -7,5 +7,5 @@ for num in my_list:
         even+=1
     else:
         odd+=1
-print(f"(Total number of occurances of odd numbers is {odd})")
-print(f"(Total number of occurances of even numbers is {even})")
+print(f"Total number of occurances of odd numbers is {odd}")
+print(f"Total number of occurances of even numbers is {even}")
