@@ -21,4 +21,4 @@ if(password[7:] and password.isalnum()):
         print(f"{password} is not a valid password")
 
 else:
-    print("Password show have atleast 8 characters")
+    print("Password should have atleast 8 characters")
